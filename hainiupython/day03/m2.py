@@ -10,3 +10,5 @@ def add(a, b):
 
 def say():
     print("hello ")
+
+xxx = 1
