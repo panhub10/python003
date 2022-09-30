@@ -10,5 +10,6 @@ b = 2
 c = a + b
 print(c)
 
-from day03.m2 import add
+from day03.m2 import add, say
 print(add(a,b))
+say()

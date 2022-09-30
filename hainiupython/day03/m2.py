@@ -7,3 +7,6 @@ Copyright (c) 2022/9/30, 海牛学院版权所有.
 """
 def add(a, b):
     return a + b
+
+def say():
+    print("hello ")
