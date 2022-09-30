@@ -9,3 +9,6 @@ a = 1
 b = 2
 c = a + b
 print(c)
+
+from day03.m2 import add
+print(add(a,b))
