@@ -12,3 +12,5 @@ def say():
     print("hello ")
 
 xxx = 1
+
+bbbb = 1
